@@ -1,0 +1,15 @@
+{
+  "name": "test",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "fmt": "prettier --write ."
+  },
+  "keywords": [],
+  "author": "Toshimichi <main@toshimichi.net> (https://toshimichi.net/)",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^3.0.3"
+  }
+}
